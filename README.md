@@ -34,20 +34,17 @@ flutter run
 
 ## 📸 Uygulama Görselleri
 
-### Ana Sayfa
 <h3>Ana Sayfa</h3>
 <p>
   <img src="./screenshots/home_1.png" width="250"/>
   <img src="./screenshots/home_2.png" width="250"/>
 </p>
 
-### Ürün Detayı
 <h3>Ürün Detayı</h3>
 <p>
   <img src="./screenshots/detail.png" width="250"/>
 </p>
 
-### Sepet
 <h3>Sepet</h3>
 <p>
   <img src="./screenshots/cart_1.png" width="250"/>
