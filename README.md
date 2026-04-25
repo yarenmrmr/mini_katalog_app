@@ -18,3 +18,13 @@ Kullanıcılar ürünleri listeleyebilir, detaylarını görüntüleyebilir ve s
 ## 🛠 Kullanılan Teknolojiler
 - Flutter 3.41.7
 - Dart 3.11.5
+
+---
+
+## ▶️ Çalıştırma Adımları
+
+```bash
+git clone https://github.com/yarenmrmr/mini_katalog_app.git
+cd mini_katalog_app
+flutter pub get
+flutter run
